@@ -1,2 +1,2 @@
 # Feature-Selection-Methods
-I would like to study on different feature selection method implementation in python.
+Implementing of different feature selection methods.
